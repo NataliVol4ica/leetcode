@@ -1,5 +1,6 @@
 ﻿using LeetCodeSandbox._1._1000._1._100;
 using LeetCodeSandbox._1._1000._1._100._1._10;
+using LeetCodeSandbox._1._1000._1._100._31._40;
 using LeetCodeSandbox._1._1000._1._100._41._50;
 using LeetCodeSandbox._1._1000._1._100._51._60;
 using LeetCodeSandbox._1._1000._1._100._71._80;
@@ -7,6 +8,7 @@ using LeetCodeSandbox._1._1000._1._100._81._90;
 using LeetCodeSandbox._1._1000._101._200._121._130;
 using LeetCodeSandbox._1._1000._101._200._191._200;
 using LeetCodeSandbox._1._1000._201._300;
+using LeetCodeSandbox._1._1000._201._300._271._280;
 using LeetCodeSandbox._1._1000._301._400._301._310;
 using LeetCodeSandbox._1._1000._401._500._401._410;
 using LeetCodeSandbox._1._1000._401._500._461._470;
@@ -43,7 +45,7 @@ public static class Program
     {
         try
         {
-            IProblem problem = new Problem75();
+            IProblem problem = new Problem36();
             problem.Run();
         }
         catch (Exception e)
