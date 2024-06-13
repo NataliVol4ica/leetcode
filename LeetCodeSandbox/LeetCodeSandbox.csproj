@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="1001..2000\1101..1200\1141..1150\" />
+    <Folder Include="1001..2000\1101..1200\1151..1160\" />
+  </ItemGroup>
+
 </Project>

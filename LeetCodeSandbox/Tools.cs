@@ -4,7 +4,7 @@
     {
         public static string Print<T>(T[] items)
         {
-            return $"{{{string.Join(",", items.Select(v => v?.ToString()))}}}]";
+            return $"[{{{string.Join(",", items.Select(v => v?.ToString()))}}}]";
         }
     }
 }
