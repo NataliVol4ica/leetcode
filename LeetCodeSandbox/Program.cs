@@ -45,7 +45,7 @@ public static class Program
     {
         try
         {
-            IProblem problem = new Problem36();
+            IProblem problem = new Problem46();
             problem.Run();
         }
         catch (Exception e)
